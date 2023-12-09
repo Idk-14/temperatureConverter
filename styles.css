@@ -78,6 +78,7 @@ input
     margin-right: 100px;
     text-align: center;
     cursor: pointer;
+    border-radius: 5px;
 }
 
 .button button:hover
